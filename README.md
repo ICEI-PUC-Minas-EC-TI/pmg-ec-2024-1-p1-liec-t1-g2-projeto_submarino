@@ -1,25 +1,25 @@
-# TÍTULO DO PROJETO
+# Projeto 
 
-`CAMPUS/UNIDADE`
+* Puc Minas Coração Eucaristico
 
-`CURSO`
+* Engenharia De Computação
 
-`SEMESTRE`
+* Primeiro periodo
 
-`DISCIPLINA`
+* Laboratorio de Introdução a Engenharia de Eomputação
 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Augusto Gonçalves Silva Magalhães
+* Felipe Benfica Martins
+* Ian Pereira Pinto Bomfim
+* Lucas Vinicius 
 * Nome completo do aluno 5
 
 ## Orientador
 
-* Nome completo do professor 1
+* Marta Dias Moreira Noronha
 
 ## Resumo
 
