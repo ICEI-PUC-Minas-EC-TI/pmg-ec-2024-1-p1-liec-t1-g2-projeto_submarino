@@ -17,8 +17,10 @@ resistores
 cabos
 
 # Desenvolvimento
+Após o processo inicial de brainstorming, onde exploramos diversas ideias para um projeto envolvendo tecnologia Arduino, decidimos inicialmente pelo conceito de um submarino. No entanto, após considerar os desafios técnicos e os custos envolvidos, optamos por adaptar o projeto para um barco controlado por Arduino.
 
-Descreva aqui como foi o desenvolvimento do trabalho, destacando cada uma das etapas necessárias para chegar até a solução final.
+O projeto, que teve um orçamento inicial estimado em cerca de 300 reais, envolveu a busca por peças e componentes específicos necessários para a construção do barco.
+Demos inicio ao processo de desenvolvimento do Barco.
 
 ## Desenvolvimento do Aplicativo
 
