@@ -1,3 +1,9 @@
 # Conclusão
-
-Descreva aqui a conclusão do projeto e sugestões de trabalhos futuros (o que pode ser melhorado em versões futuras).
+Ao finalizar o projeto de desenvolvimento de um barco controlado por Arduino, podemos refletir sobre os desafios enfrentados, os aprendizados adquiridos e os resultados alcançados.
+Durante todo o processo, desde a fase inicial de brainstorming até a implementação prática, enfrentamos diversas decisões importantes que moldaram o curso do projeto. Inicialmente consideramos a construção de um submarino, porém, após uma análise detalhada dos desafios técnicos e custos envolvidos, optamos pela adaptação para um barco controlado remotamente.
+O projeto envolveu a pesquisa e aquisição de componentes essenciais como motores elétricos, módulos Bluetooth, baterias e sensores adequados para as necessidades de controle e monitoramento. Cada etapa foi uma oportunidade para explorar novas tecnologias, resolver problemas práticos de engenharia e aprender com as experiências de implementação.
+Durante o desenvolvimento, enfrentamos desafios significativos, como a impermeabilização dos componentes eletrônicos para uso em ambiente aquático, o ajuste fino do sistema de controle para garantir navegação precisa e segura, além da integração eficiente dos diferentes dispositivos e sensores com o Arduino.
+A colaboração e o trabalho em equipe foram fundamentais para o sucesso do projeto, pois cada membro contribuiu com suas habilidades e conhecimentos específicos, promovendo um ambiente de aprendizado mútuo e troca de ideias.
+Ao final, conseguimos alcançar nosso objetivo de desenvolver um barco controlado por Arduino funcional e eficaz. O barco não só demonstra nossa capacidade de adaptação e resolução de problemas, mas também abre portas para explorar novas aplicações na robótica aquática e automação de veículos aquáticos.
+Este projeto não é apenas um marco em nosso percurso acadêmico e profissional, mas também representa um exemplo de como a tecnologia pode ser aplicada de maneira criativa e inovadora para resolver desafios do mundo real.
+Por fim, estamos entusiasmados com as possibilidades futuras que este projeto nos proporcionou, e esperamos continuar explorando novas fronteiras na engenharia eletrônica e na automação de sistemas aquáticos.
