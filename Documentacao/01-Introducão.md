@@ -1,17 +1,12 @@
 # Introdução
+No início do projeto, nossa equipe estava repleta de entusiasmo com a ideia de criar um submarino controlado por Arduino, onde seringas seriam utilizadas para o controle de profundidade. Imaginávamos um dispositivo inovador, capaz de explorar as profundezas de maneira autônoma e precisa. No entanto, à medida que avançávamos na montagem, enfrentamos uma série de desafios técnicos que nos fizeram reconsiderar nossa abordagem inicial.
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
-
+Após uma cuidadosa reflexão e discussão em equipe, chegamos à conclusão de que seria mais prudente direcionar nossos esforços para um projeto mais viável e igualmente empolgante: a construção de um barco controlado por Arduino. Este novo caminho não apenas capitaliza em nossa experiência anterior com Arduino, mas também nos permite explorar novas possibilidades de navegação e controle remoto. Estamos animados para embarcar nessa jornada, aproveitando os aprendizados até agora para criar algo verdadeiramente excepcional.
 ## Problema
-
-Nesse momento você deve apresentar o problema que o seu projeto deve  resolver. Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. 
+Nosso barco é um projeto voltado exclusivamente para o uso recreativo, destinado a proporcionar diversão e entretenimento. Não estamos buscando resolver um problema específico da sociedade, mas sim explorar a engenhosidade e a criatividade em um ambiente de hobby. Com o foco na construção de um barco controlado por Arduino, estamos dedicados a criar uma experiência única e emocionante para nós mesmos e para aqueles que desfrutarão das aventuras náuticas que ele proporcionará. Este projeto representa não apenas um desafio técnico empolgante, mas também uma oportunidade de explorar novas fronteiras dentro do mundo do lazer e da inovação tecnológica.
 
 ## Objetivos
+O objetivo deste projeto recreativo é projetar e construir um barco controlado por Arduino que não apenas funcione de maneira confiável e eficiente, mas também ofereça uma experiência de diversão e aprendizado para todos os envolvidos. Nosso objetivo é explorar as capacidades do Arduino na automação e controle de embarcações, integrando tecnologia e criatividade para criar um barco que seja seguro, fácil de operar e capaz de proporcionar momentos emocionantes em ambientes aquáticos. Ao final do projeto, esperamos não apenas ter um barco funcional, mas também ter ampliado nosso conhecimento em eletrônica, programação e mecânica aplicada a projetos de lazer.
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um projeto para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
 ## Público-Alvo
-
-Descreva quem serão as pessoas que usarão o projeto. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, etc.
+O público-alvo para nosso projeto é voltado para uso recreativo seria principalmente entusiastas de tecnologia, hobbyistas de eletrônica e programação, bem como pessoas interessadas em atividades ao ar livre e navegação. Além disso, nosso projeto poderia atrair curiosos e educadores interessados em demonstrações práticas de tecnologia e engenharia aplicadas a embarcações de pequeno porte. Portanto, nosso público-alvo incluiria desde jovens aprendizes até adultos que buscam uma nova maneira de se divertir e explorar tecnologias emergentes.
