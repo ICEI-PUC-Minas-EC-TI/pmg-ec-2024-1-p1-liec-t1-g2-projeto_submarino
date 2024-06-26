@@ -26,11 +26,11 @@ Demos inicio ao processo de desenvolvimento do Barco.
 
 ### Interface
 
-O aplicativo consiste de uma tela com um botao azul superior que permite se conectar ao arduino e 4 botoes na parte inferior para controlar a direção e os leds do barco.
+O aplicativo consiste de uma tela com um botao azul superior que permite se conectar ao arduino e 4 botoes na parte inferior para controlar a direção e os leds do barco, os botões direcionais são representados por setas indicando a direção, o botão de controle dos leds e representado por uma lampada. O aplicativo conta tambem com indicadores visuais de quais funções estão ativas (alteração da cor do fundo para botões direcionais, animação de acendimento da lampada no batão de controle dos led).
 
 ### Código
 
-O codigo do aplicativo envia um numero decimal para o arduino referente a cada botão que foi selecionado. (1 acelera, 2 vira esquerda, 3 vira direita, 6 acende leds, 0 deliga motores).
+O codigo do aplicativo foi feito atraves de blocos dentro do proprio app inevntor, a parte que permite a coneção bluetooht foi feito de acordo com oque foi ensinado nas aulas de liec. O codigo para controle dos botões consiste de blocos condicionais que enviam um numero decimal para o arduino referente ao botão que foi selecionado. (1 acelera, 2 vira esquerda, 3 vira direita, 6 acende leds, 7 desliga leds, 0 deliga motores).
 
 ## Desenvolvimento do Hardware
 
