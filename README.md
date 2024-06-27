@@ -6,7 +6,7 @@
 
 * Primeiro periodo
 
-* Laboratorio de Introdução a Engenharia de Eomputação
+* Laboratorio de Introdução a Engenharia de Computação
 
 
 ## Integrantes
