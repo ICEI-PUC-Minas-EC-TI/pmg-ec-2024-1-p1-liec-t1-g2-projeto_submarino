@@ -15,7 +15,7 @@
 * Felipe Benfica Martins
 * Ian Pereira Pinto Bomfim
 * Lucas Vinicius 
-* Nome completo do aluno 5
+* Andre Ferraz
 
 ## Orientador
 
