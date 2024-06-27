@@ -49,4 +49,8 @@ Problemas com a bateria: O arduino parece não funcionar corretamente conectado 
 Dia 4: Testes Finais do Barco na Água
 Objetivo: Corrigir os problemas com bateria, implementar led que permitam que o barco seja visto a noite e realizar a montagem final e os testes.
 
+Resultados: 
+Integração Bem-sucedida: Conseguimos Implementar o led e realizamos a montagem final do protótipo
 
+Limitações Identificadas: 
+Problemas com a Bateria: O arduino funciona corretamente conectado a bateria, a voltagem é distribuida de forma incorreta entre o motor e o modulo bluetooth, impedindo assim que os motores girem e dificultando a conexão com o aplicativo. Apesar disso ele funciona perfeitamento conectado ao computador.
