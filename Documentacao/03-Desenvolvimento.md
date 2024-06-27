@@ -36,11 +36,11 @@ O codigo do aplicativo foi feito atraves de blocos dentro do proprio app inevnto
 
 ### Montagem
 
-Descreva como foi o processo da montagem do projeto.
+No início do projeto a ideia do submarino era de ter 3 motores 2 para girar as hélices de direção frontal e lateral e um motor para controlarmos a profundidade do submarino, durante o processo de construção vimos que o motor não tinha força para girar as engrenagens que iriam controlar a profundidade através de uma seringa, com isso mudamos o projeto para um barco, usando dois motores para girar o barco para a direita, esquerda e também movê-lo para frente. Conectamos os dois motores em um drive L298N para controlarmos os motores, esse driver recebe uma tensão de entrada de 5V para o funcionamento do drive e uma entrada de até 12V para o funcionamento dos motores, além de 4 entradas lógicas para o controle dos motores. Esse drive é conectado ao arduíno que recebe sinás do aplicativo através do modulo bluetooth HC05, que recebe uma entrada de 3.3V e 6V para funcionamento do módulo e 2 entrdas para receber, uma para receber o sinal do ardíno e outra para enviar o sinal recebido do app para o arduíno.
 
 ### Desenvolvimento do Código
 
-O codigo se baseia no comando "Switch Case" para definir oque acontece no arduino de acordo com cada numero recebido por bluetooth.
+O código lê através da função
 
 ## Comunicação entre App e Hardware
 
