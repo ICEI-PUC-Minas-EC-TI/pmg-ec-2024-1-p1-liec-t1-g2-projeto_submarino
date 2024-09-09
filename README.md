@@ -6,7 +6,7 @@
 
 * Primeiro periodo
 
-* Laboratorio de Introdução a Engenharia de Computação
+* Laboratorio de Introdução a Engenharia de Computação, Algoritmos e Estruturas de Dados I, Introdução à Computação
 
 
 ## Integrantes
@@ -20,6 +20,8 @@
 ## Orientador
 
 * Marta Dias Moreira Noronha
+* Sandro Jerônimo de Almeida
+* Naísses Zóia Lima
 
 ## Resumo
 
