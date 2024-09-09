@@ -17,7 +17,7 @@
 * Lucas Vinicius 
 * Andre Ferraz
 
-## Orientador
+## Orientadores
 
 * Marta Dias Moreira Noronha
 * Sandro Jerônimo de Almeida
